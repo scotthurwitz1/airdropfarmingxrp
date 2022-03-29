@@ -18,4 +18,8 @@ trust add- adding trust lines for each account
 
 offer create- executing sell orders on the ledger for each account
 
+I successfully dealt with the challenges of such a project, for example the specifics surrounding verifying
+transactions on the ledger after executing them, and other behaviors that are specific to the xrpl's 
+style of execution.
+
 Any potentially sensitive data has been redacted 
