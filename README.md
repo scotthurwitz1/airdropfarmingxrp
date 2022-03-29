@@ -18,7 +18,7 @@ trust add- adding trust lines for each account
 
 offer create- executing sell orders on the ledger for each account
 
-I successfully dealt with the challenges of such a project. For example the specifics surrounding verifying
+There were a few challenges that arose. For example the specifics surrounding verifying
 transactions on the ledger after executing them, fee adjustments that emerged as activity on the
 ledger expanded, are two emergent behaviors that I dealt with specific to the xrpl's 
 style of execution. As a result I have a moderate level of comfort navigating the xrpl-py codebase. 
