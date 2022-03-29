@@ -29,7 +29,7 @@ delays = [13.0, 21.0, 34.0, 55.0, 89.0, 144.0, 233.0]
 delays = [i/2.33 for i in delays]
 
 ######fix filenames before running
-filename_in = 'full total'
+filename_in = redacted
 df = pd.read_excel(f'/Users/scottsmac/Desktop/MyCode/{filename_in}.xlsx', 0)
 seeds = df['Seeds'].tolist()
 
