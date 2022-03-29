@@ -9,4 +9,9 @@ Here are a selection of examples of my experience using my data science skills a
 and manage actions on the ledger for a cluster of several thousand individual "accounts" in order to facilitate
 the airdrop farming process. 
 
+account data export- generating new wallets and exporting their data
+harvest xrp- collecting profits from each account to a hub
+offer create- executing sell orders on the ledger for each account
+trust add- adding trust lines for each account
+
 Any potentially sensitive data has been redacted 
