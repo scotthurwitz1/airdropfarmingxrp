@@ -25,7 +25,7 @@ from xrpl.models.amounts import IssuedCurrencyAmount
 
 ######fix filenames before running
 filename_in = 'redacted'
-df = pd.read_excel(f'/Users/scottsmac/Desktop/MyCode/{filename_in}.xlsx', 0)
+df = pd.read_excel(f'redacted', 0)
 seeds = df['Seeds'].tolist()
 
 # Define the network client
