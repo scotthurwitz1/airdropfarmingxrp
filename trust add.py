@@ -25,7 +25,7 @@ JSON_RPC_URL = "https://xrplcluster.com/"
 client = JsonRpcClient(JSON_RPC_URL)
 
  #import seeds
-df = pd.read_excel(f'/Users/scottsmac/Desktop/MyCode/{filename_in}.xlsx', 0)
+df = pd.read_excel(f'redacted', 0)
 seeds = df['Seeds'].tolist()
 
 # Create an index of wallet/classic address pairs
