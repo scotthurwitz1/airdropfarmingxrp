@@ -23,6 +23,6 @@ df['Seeds']=seeds
 df['Addresses']=addresses
 print(df)
 
-df.to_excel(f'/Users/napoleon/Desktop/MyCode/{filename}.xlsx', index = False)
+df.to_excel(f'redacted', index = False)
 
 
