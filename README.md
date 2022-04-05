@@ -6,8 +6,7 @@ creating a "staking" type bundle of scripts that lock xrp tokens into "trustline
 span of a large number of wallets in exchange for marketing airdrops from token creators. 
 
 Here are a selection of examples of my experience using my data science skills and the xrpl-py package to coordinate
-and manage actions on the ledger for a cluster of several thousand individual accounts in order to facilitate
-the airdrop farming process. 
+and manage actions on the ledger for a cluster of several thousand individual accounts.
 
 account data export- generating new wallets and exporting their data
 
@@ -18,9 +17,11 @@ trust add- adding trust lines for each account
 
 offer create- executing sell orders on the ledger for each account
 
-There were a few challenges that arose. For example, the need for verifying
-transactions on the ledger after executing them, and fee adjustments as activity on the
-ledger expanded, were two emergent behaviors that I dealt with specific to the xrpl's 
-style of execution. As a result I have a moderate level of comfort navigating the xrpl-py codebase. 
+There were a few challenges that arose particular to working on the XRPL. 
+For example, the need for explicitly verifying transactions, processing partial payments, 
+and making fee adjustments. As a result I have a moderate level of comfort 
+navigating the xrpl-py codebase. In the future I would be interested increasing
+the speed of the scripts by running multiple iterations in parallel
+on the cloud. 
 
 Any potentially sensitive data has been redacted 
