@@ -19,9 +19,9 @@ trust add- adding trust lines for each account
 
 offer create- executing sell orders on the ledger for each account
 
-There were a few challenges that arose particular to working on the XRPL. 
-For example, the need to explicitly verify transactions and retry failed ones, 
-processing partial payments, and making fee adjustments. In the future I would be interested increasing
+There were a few challenges that arose while working on the XRPL. 
+These included the need to: continually verify transactions/retry failed transactions, 
+process partial payments, and make fee adjustments. In the future I would be interested increasing
 the speed of the scripts by running multiple iterations in parallel
 on the cloud. 
 
