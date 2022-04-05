@@ -21,8 +21,7 @@ offer create- executing sell orders on the ledger for each account
 
 There were a few challenges that arose particular to working on the XRPL. 
 For example, the need for explicitly verifying transactions, processing partial payments, 
-and making fee adjustments. As a result I have a moderate level of comfort 
-navigating the xrpl-py codebase. In the future I would be interested increasing
+and making fee adjustments. In the future I would be interested increasing
 the speed of the scripts by running multiple iterations in parallel
 on the cloud. 
 
