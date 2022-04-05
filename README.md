@@ -5,7 +5,7 @@ I noticed the opportunity to earn a return on xrp tokens by
 creating a "staking" type bundle of scripts that lock xrp tokens into "trustlines" over the 
 span of a large number of wallets in exchange for marketing airdrops from token creators. 
 
-To do this, I combined my data science skills with tools from the xrpl-py package to coordinate
+To do this, I combined my data science skills with tools from the xrpl-py library to coordinate
 and manage actions on the ledger for a cluster of several thousand accounts.
 
 scripts: 
