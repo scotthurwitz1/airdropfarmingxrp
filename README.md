@@ -8,6 +8,7 @@ span of a large number of wallets in exchange for marketing airdrops from token 
 In these examples, I combined my data science skills with tools from the xrpl-py package to coordinate
 and manage actions on the ledger for a cluster of several thousand accounts.
 
+scripts: 
 account data export- generating new wallets and exporting their data
 
 harvest xrp- collecting profits from each account to a hub, a similar process was used
