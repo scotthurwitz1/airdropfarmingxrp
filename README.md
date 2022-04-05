@@ -24,4 +24,4 @@ navigating the xrpl-py codebase. In the future I would be interested increasing
 the speed of the scripts by running multiple iterations in parallel
 on the cloud. 
 
-Any potentially sensitive data has been redacted 
+Any potentially sensitive data has been redacted
