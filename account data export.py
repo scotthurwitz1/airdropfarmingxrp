@@ -8,8 +8,6 @@ addresses = []
 num = 2650
 filename = 'redacted'
 
-######fix filenames before running
-
 for i in range(num):
     a = xrpl.core.keypairs.generate_seed()
     seeds.append(a)
