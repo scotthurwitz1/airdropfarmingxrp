@@ -10,6 +10,7 @@ Account Data Export: Seamlessly generate new XRP wallets and safely export their
 Harvest XRP: Channel profits from the multitude of accounts into a centralized hub. This mechanism also aids in the initial fund dissemination across these accounts for optimized "staking".
 Trust Add: Facilitate the addition of trust lines for every associated account, ensuring deeper integration into the XRP ecosystem.
 Offer Create: Efficiently place sell orders on the ledger for each account, leveraging liquidity and opportunities.
+
 Challenges & Future Enhancements:
 
 Working with the XRPL presents its unique set of challenges:
