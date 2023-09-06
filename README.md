@@ -1,17 +1,17 @@
-XRP Ledger Airdrop Farming Toolkit
+-- XRP Ledger Airdrop Farming Toolkit
 
 Utilizing the power of the XRP Ledger, this toolkit is a comprehensive suite of scripts tailored for capitalizing on airdrop opportunities. By creating a pseudo-staking system, we facilitate the locking of XRP tokens across numerous wallets, optimizing the chances of securing marketing airdrops from various token creators.
 
 Built upon the foundational elements of the xrpl-py library and enriched with data science methodologies, this toolkit effectively manages and coordinates ledger operations across thousands of accounts.
 
-Features:
+-- Features:
 
 Account Data Export: Seamlessly generate new XRP wallets and safely export their data.
 Harvest XRP: Channel profits from the multitude of accounts into a centralized hub. This mechanism also aids in the initial fund dissemination across these accounts for optimized "staking".
 Trust Add: Facilitate the addition of trust lines for every associated account, ensuring deeper integration into the XRP ecosystem.
 Offer Create: Efficiently place sell orders on the ledger for each account, leveraging liquidity and opportunities.
 
-Challenges & Future Enhancements:
+-- Challenges & Future Enhancements:
 
 Working with the XRPL presents its unique set of challenges:
 
