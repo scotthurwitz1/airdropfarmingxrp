@@ -17,6 +17,8 @@ Working with the XRPL presents its unique set of challenges:
 Continuous transaction verification and robust error handling for retrying failed transactions.
 Managing partial payments seamlessly.
 Dynamically adjusting fees based on the ever-changing network conditions.
+Navigating and strategizing around low-liquidity markets to maximize returns.
+
 Our vision for the future of this toolkit is anchored in efficiency. There's a potential to further speed up operations by implementing parallel processing, with the added advantage of leveraging cloud resources for scalability.
 
 Note: All sensitive data and information have been meticulously redacted to ensure privacy and security.
